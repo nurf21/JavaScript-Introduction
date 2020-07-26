@@ -9,7 +9,7 @@
 // interestInCoding (Boolean)
 
 // ---------------------- JAWABAN ----------------------
-// Mendeklarasikan variable
+// Mendeklarasikan variabel
 const biodata = {
     name: 'Giri Said Nurfauzan',
     age: 22,
@@ -17,7 +17,7 @@ const biodata = {
     isMarried: false,
     schoolList: [
         {
-            name: 'SD Negeri Pengamon 1 Cirebon',
+            name: 'SD Negeri Pengampon 1 Cirebon',
             yearIn: 2003,
             yearOut: 2009,
             major: null
